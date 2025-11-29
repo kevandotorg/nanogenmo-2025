@@ -27,8 +27,8 @@ body { margin:0.5em; }
 <h1>The Edit History of Theseus</h1>
 
 <div class="intro">This is a piece of text generated
-for <a href="https://github.com/NaNoGenMo/2022/">NaNoGenMo 2025</a>
-through <a href="https://github.com/kevandotorg/nanogenmo-2022">a script</a>
+for <a href="https://github.com/NaNoGenMo/2025/">NaNoGenMo 2025</a>
+through <a href="https://github.com/kevandotorg/nanogenmo-2025">a script</a>
 written by <a href="https://kevan.org">Kevan Davis</a>.</div>
 
 <div class="intro">
